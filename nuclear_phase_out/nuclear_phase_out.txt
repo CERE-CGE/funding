@@ -17,4 +17,4 @@ Under the project, a so-called social accounting matrix (SAM) for Sweden compile
 With the type of CGE model we propose, it will be possible to analyze the effects of policy measures targeted at individuals as well as groups of power sources in a system perspective. This has never yet been made for the Swedish economy. The tool will be an important contribution to the analysis ability of Swedish energy policy.
 
 
-Santosh
+Santos
