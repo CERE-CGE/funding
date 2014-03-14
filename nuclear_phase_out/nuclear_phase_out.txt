@@ -1,5 +1,46 @@
+Summary
+	what will be undertaken
+	how the research will be conducted and which scientific methods will be used
+	the significance of the proposed research.
+
+Popular scientific description (in Swedish)
+Total project budget
+Research programme (Appendix A)
+CV (Appendix B)
+Publication list(Appendix C) 
+Budget and research resources (Appendix N) 
+Signatures (Appendix S)
+
+Sammanfattning
+	vad som ska göras
+	hur forskningen ska utföras, vilka vetenskapliga metoder som ska användas
+	vad som är viktigt med den planerade forskningen.
+
+Popular scientific description (in Swedish)
+	Beskriv projektet populärvetenskapligt, så att även den som inte är insatt i ämnet har möjlighet att förstå. Beskriv vad som ska göras och varför samt förklara på vilket sätt den nya kunskapen kan vara betydelsefull.
+
+Total project budget
+
+Research programme (Appendix A)
+	Bilaga A ska bestå av en kortfattad men komplett beskrivning av forskningsuppgiften, högst tio A4-sidor inklusive referenser. Fokus för forskningsprogrammet ska vara framåtblickande, det vill säga en beskrivning över vad som ska göras.  Observera att sidor utöver tillåtet antal inte kommer att beaktas vid bedömningen.
+	Forskningsprogrammet, liksom övriga bilagor, kan gärna skrivas på engelska.
+	Följande information måste finnas med i forskningsprogrammet under separata rubriker:
+		(Purpose and aims). Redogör för övergripande syfte och specifika mål för forskningsprojektet eller motsvarande. 
+		(Survey of the field). Gör ett sammandrag av din egen och andras forskning och tidigare resultat inom forskningsområdet. Ange nyckelreferenser. 
+		(Project description). Gör en sammanfattning av projektet där teori, metod, tidplan, genomförande och projektorganisation beskrivs. 
+		(Significance). Redogör för projektets betydelse för forskningsområdet. 
+		(Preliminary results). Beskriv dina egna försök och förstudier inom forskningsområdet.
+	Redovisa följande under en särskild rubrik om du anser det vara relevant för ditt projekt:
+		Utrustning (Equipment). Beskriv den basutrustning för projektet som du och din grupp kan disponera.
+		Behov av infrastruktur (Need for infrastructure). Specificera projektets behov av internationell och nationell infrastruktur. Specificera även behovet av lokal infrastruktur om avskrivningskostnader för denna ingår i ansökan. Läs mer om forskningsinfrastrukturer som Vetenskapsrådet stödjer.
+		Internationellt och nationellt samarbete (International and national collaboration). En beskrivning av ditt och gruppens samarbete med utländska och svenska forskare och forskargrupper. Redovisa om du medverkar i eller anknyter till internationellt samarbete i din forskning. Du får använda projektbidrag från Vetenskapsrådet för att medfinansiera EU-projekt med motsvarande inriktning inom det sjunde ramprogrammet och Horisont 2020. Redovisa i forskningsprogrammet om du planerar en sådan samordning.
+		Etiska överväganden (Ethical considerations). Redovisa etiska frågor som projektet (eller motsvarande) aktualiserar och redogör för hur de behandlas i forskningsarbetet.
+		Övriga bidrag (Other grants). Om du avser att söka fler bidrag eller har pågående bidrag från Vetenskapsrådet, ska relationen mellan projekten förtydligas. Motivera även varför du skickar in ytterligare en eller flera ansökningar. 
+		Självständig forskningslinje (Independent line of research). Du som verkar eller kommer att verka i en större grupp ska tydliggöra hur ditt projekt förhåller sig till de övriga. Om du fortsätter på ett projekt som helt eller delvis har påbörjats under din doktorand- eller postdoktid, ska du beskriva relationen mellan ditt projekt och din tidigare handledares forskning.
+
 Socio-economic impact assessment of phase out of Swedish nuclear power
 
+(Purpose and aims)
 The research project we are proposing here intends to analyze the socio-economic costs and effects of any restrictions on the capacity of the base and regulating power in Swedish electricity production. To this end, an existing dynamic CGE model is targeted for enhancement on detailed description of the Swedish energy sector. This type of model, called a hybrid model, is a combination of detailed micro data on the energy sector and more aggregated data usually used in CGE models. This hybrid model describes the energy sector in sufficient detail enabling analysis of changes in the economic conditions of different power sources for electricity generation. This type of CGE model is missing for the Swedish economy and would be a genuine contribution to the analysis of energy policy in general, but a particularly well adapted tool for the project we are proposing here.
 
 Energy issues are becoming increasingly important and related considerations increasingly complex. Surprisingly, energy economy is today a secluded venture at Swedish universities, at least in the economic institutions. CERE has launched a significant investment in the subject field. An important reason is the development of knowledge in CGE modeling in Sweden with focus on developing energy side. Seeing the energy policy developments in a system perspective also seems increasingly important, not least, in view of what has happened in the energy markets today.
@@ -12,7 +53,15 @@ A restriction in the supply of nuclear or hydropower will most likely have major
 
 CERE has recently started a group (CGE Group) to specifically analyze the Swedish and European environmental and energy policies with the help of so -called general equilibrium modeling (CGE). CGE models' ability to describe the economy-wide effects is an important difference compared with different types of partial models. A CGE model can capture the repercussions that occur between different sectors and not only the direct impact in the sectors concerned. Compared with partial models captured the overall socio-economic impact on a more complete way in CGE models.
 
+With the type of CGE model we propose, it will be possible to analyze the effects of policy measures targeted at individuals as well as groups of power sources in a system perspective. This has never yet been made for the Swedish economy. The tool will be an important contribution to the analysis ability of Swedish energy policy.
+
+(Survey of the field)
+
+(Project description) teori, metod, tidplan, genomförande och projektorganisation
 Under the project, a so-called social accounting matrix (SAM) for Sweden compiled, with specific focus on the energy markets. This work involves the collection of data from different sources, processing of these data so that they can consistently describe the Swedish economy in equilibrium, and that the data are of sufficient detail to analyze adequately the various policies in the environmental and energy policy. The plan is to use detailed economic and technological data for the various types of production in the energy sector along with more aggregate economic data from the national accounts to provide a consistent data useful for CGE modeling. These data will be of sufficient detail to enable holistic socio-economic analyzes of policies targeted at individual types of production in the energy sector.
 
-With the type of CGE model we propose, it will be possible to analyze the effects of policy measures targeted at individuals as well as groups of power sources in a system perspective. This has never yet been made for the Swedish economy. The tool will be an important contribution to the analysis ability of Swedish energy policy.
+(Significance)
+(Preliminary results)
+
+
 
