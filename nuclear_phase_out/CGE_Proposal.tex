@@ -24,6 +24,8 @@
 \usepackage[margin=1.5in]{geometry}
 \usepackage{placeins}         % Permets de vider le buffer de flottants avec \FloatBarrier
 \usepackage{epstopdf}
+\usepackage{pgfgantt}
+
 
 \usepackage{color,framed}            % Utilisation des couleurs et de l'environnement shaded
 \definecolor{shadecolor2}{rgb}{.92,.92,.92} % choix de la teinte de ``shaded''
@@ -178,6 +180,23 @@ The model will have to be modified in order to incorporate the new detailed data
 The efficient implementation of the project requires proper organisation. Two researcher engaged in the project will have regular meeting to ensure that purpose and aim of the project are going in right direction with the supervision of the team leader. Meeting with the international expert who are experts on this field will guarantee that the research work is of international standard with scientific quality and policy relevance.
 
 The research will be also present on the international conferences to get the feedbacks from the experts.
+
+\begin{ganttchart}[
+hgrid=true,
+vgrid=true,
+bar/.style={fill=gray}
+]{1}{18}
+
+\gantttitle{Months}{18} \\
+\gantttitlelist{1,...,18}{1} \\
+\ganttbar{Literature Review}{1}{3} \\
+\ganttbar{Database}{3}{8} \\
+\ganttbar{Model development}{6}{12} \\
+\ganttbar{Model simulation}{12}{18} \\
+\ganttbar{Final Report}{16}{18} 
+\end{ganttchart}
+
+%http://ctan.mirrorcatalogs.com/graphics/pgf/contrib/pgfgantt/pgfgantt.pdf
 
 \subsection{Significance}
 
