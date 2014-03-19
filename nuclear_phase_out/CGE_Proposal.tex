@@ -24,6 +24,8 @@
 \usepackage[margin=1.5in]{geometry}
 \usepackage{placeins}         % Permets de vider le buffer de flottants avec \FloatBarrier
 \usepackage{epstopdf}
+\usepackage{pgfgantt}
+
 
 \usepackage{color,framed}            % Utilisation des couleurs et de l'environnement shaded
 \definecolor{shadecolor2}{rgb}{.92,.92,.92} % choix de la teinte de ``shaded''
@@ -154,8 +156,14 @@ Disaggregated electricity sector
 - Scenario 2: Phase out of existing nuclear power plant (with expansion of hydro power plant)
 - Scenario 3: Phase out of existing nuclear power plant (without expansion of hydro power plant) and CO2 commitment
 - Scenario 4: Phase out of existing nuclear power plant (with expansion of hydro power plant) and CO2 commitment
+
 \end{comment}
+
+
 % timetable, implementation and project organisation
+ 
+
+
 % Implementation
 % Data
 An initial step for the project is to compile a so-called social accounting matrix (SAM), for Sweden, with specific focus on the energy markets. This work involves the collection of data from different sources and processing of these data so that they can consistently describe the Swedish economy in equilibrium and that the data are of sufficient detail to adequately analyze policies targeting the electricity system. This SAM will feed the model at hand with new and complementary data.
@@ -175,7 +183,27 @@ Dr. Joshi Santosh Ram a PhD from NUI Galway, Ireland, and a Master from Wagening
 Professor Chris Böhringer; a world leading authority on Computable General Equilibrium (CGE modeling), research associate at ZEW in combination with his chair for the Department of Economic Policy at the University of Oldenburg, Germany. Beside collaborating in this project Professor Böhringer has been connected to CERE and Umeå and will be an important part of the CERE strategy to develop CGE modeling – particularly within the framework of our general work on the energy field.
 Dr. Martin Hill, employee at the Ministry of Finance and Adjunct Professor to SLU and CERE, is one of Sweden's most skilled CGE specialists and will function as an collaborating member of the group.
 Dr. Badri Narayanan Gopalakrishnan, employee at the Center for Global Trade Analysis, Department of Agricultural Economics, Purdue University, USA. Dr. Gopalakrishnan holds an extensive knowledge in data issues regarding CGE modeling and will be an tremendous asset in the labor intense work of constructing the SAM.
+The efficient implementation of the project requires proper organisation. Two researcher engaged in the project will have regular meeting to ensure that purpose and aim of the project are going in right direction with the supervision of the team leader. Meeting with the international expert who are experts on this field will guarantee that the research work is of international standard with scientific quality and policy relevance.
+\begin{ganttchart}[
+hgrid=true,
+vgrid=true,
+bar/.style={fill=gray}
+]{1}{18}
+
+\gantttitle{Months}{18} \\
+\gantttitlelist{1,...,18}{1} \\
+\ganttbar{Literature Review}{1}{3} \\
+\ganttbar{Database}{3}{8} \\
+\ganttbar{Model development}{6}{12} \\
+\ganttbar{Model simulation}{12}{18} \\
+\ganttbar{Final Report}{16}{18} 
+\end{ganttchart}
+
+%http://ctan.mirrorcatalogs.com/graphics/pgf/contrib/pgfgantt/pgfgantt.pdf
+
 \subsection{Significance}
+
+Only few studies have examined the economic consequence of nuclear phase out in Sweden and quite old. Economic and energy systems in Sweden has evolved since these studies. And this research  seeks to advance this in current Swedish context. This is done by addressing number of methodological issues, data and scenarios that are required to model the policy question like nuclear phase out.
 
 \subsection{Preliminary results}
 
