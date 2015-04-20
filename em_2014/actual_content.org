@@ -1,0 +1,695 @@
+* Forskningsinriktningar
+Programmet är öppet för ansökningar från alla vetenskapliga
+discipliner som kan behandla energifrågor för att möjliggöra en
+mångfald av bilder och analyser. Samhällsvetenskapliga och
+humanistiska perspektiv välkomnas för att öka kunskapen om hur den
+svenska energi- och klimatpolitiken fungerar. Jämförande studier
+efterfrågas, både mellan länder och sektorer, likaså projekt med
+genus- och generationsperspektiv.
+
+Följande områden betraktas som särskilt relevanta för utlysningen:
+
+** Allmänna energisystemstudier
+Forskning om hur klimat- och energipolitik, teknikskifte samt
+energieffektivisering kan förändra t.ex. sociala mönster, beteenden
+och attityder. Samt, vilka demokratiska och etiska avvägningar
+utformningen av klimat- och energipolitiken bör beakta. Inom området
+ingår även frågor om planering, försörjningstrygghet och
+energifattigdom.
+
+** Styrmedelsstudier
+Forskning om energipolitiska styrmedel, t.ex. styrmedels
+ändamålsenlighet och kostnadseffektivitet. Det gäller särskilt att
+belysa behov och konsekvenser av styrmedel och att skapa kunskap om
+styrmedels samlade effekter och potential.
+
+** Elmarknadsforskning
+Forskning om el- och energimarknaderna och energimarknadernas aktörer,
+samt teknikskiften. I området ingår även forskning för ökad förståelse
+för marknadsaktörernas agerande, såväl institutionella aktörer som
+enskilda individers agerande.
+* Sökande
+** Företag/organisation
+Universitetets, högskolans eller företagets namn
+** Organisationsnummer
+Ange organisationsnummer enligt; 556626-3223.
+** Institution/avdelning
+Ange institution eller avdelningens namn (institution avser endast högskola och
+universitet).
+** Plusgiro/Bankgiro/Bankkonto
+Ange det plusgiro-/bankgiro- eller bankkontonummer som ska användas vid
+utbetalning av bidrag.
+** Postadress
+Ange postadress till exempel: Box 266 eller Västra Långgatan 9.
+** Postnummer
+Ange postnummer enligt 731 26.
+** Ort
+Ange ortsnamn.
+** Län och kommun
+Läns- och kommunkod, till exempel 19 och 80.
+** Land
+Ange landsnamn.
+** Projektledare
+Ange projektledarens titel, förnamn och efternamn
+** Telefon
+Ange telefonnummer enligt 016-544 20 00.
+** Fax
+Ange telefaxnummer enligt 016-544 20 99.
+** E-postadress
+Ange e-postadress.
+** Webbplats
+Ange hemsidans adress enligt www.energimyndigheten.se
+** Eventuell medsökande
+Ange namnet på institution/företag/organisation.
+
+* Projektet
+** Nytt projekt/Fortsättning på tidigare projekt
+Avser denna ansökan ett nytt projekt, markera rutan ”Nytt projekt”. Om ansökan
+tillhör ett projekt som tidigare registrerats av Energimyndigheten markera då
+”Fortsättning på tidigare projekt” samt ange projektnummer.
+** Projekttitel (max 10 ord)
+*** Krav
+Projekttiteln ska omfatta max 10 ord och skrivas både på svenska och på engelska.
+Projekttiteln ska vara en kort projektbeskrivning.
+*** Text Swe
+Energiekonomisk analys av bas- och reglerkraft med en
+allmänjämviktsmodell
+
+Allmän jämviktsmodellering med fokus på energi
+*** Text Eng
+
+** Sammanfattning (max 800 tecken)
+*** Krav
+Projektsammanfattning ska omfatta max 800 tecken och skrivas både på
+svenska och på engelska. Den ska skrivas på ett populärvetenskapligt
+sätt så att även den som är oinvigd i ämnet med lätthet förstår vad
+projektet handlar om.
+*** Text Swe
+**** Text 1
+Det forskningsprojektet vi här föreslår avser att analysera
+samhällsekonomiska kostnader och effekter av eventuella begränsningar
+av bas- och reglerkraft i svensk elproduktion. Till detta ändamål
+kommer en existerande allmän jämviktsmodell (förkortad CGE-modell
+fortsättningsvis) vidareutvecklas för att på en detaljerad nivå
+beskriva svensk energisektor, en så kallad hybridmodell där detaljerad
+mikrodata kombineras med de mer aggregerade data vanligtvis
+förekommande i CGE-modeller. I denna hybridmodell är energisektorn
+beskriven så att de olika kraftslagen för elproduktion är
+särskiljda. Vidare kommer denna CGE-modell att knytas samman med en
+befintlig regional CGE-modell med fokus på Europa baserad på, för oss
+tillgängligt, data från Global Trade Analysis Project (GTAP). Denna
+länkning möjliggör analyser av hur handel av varor, vilka direkt eller
+indirekt påverkar svensk elförsörjning, påverkas av gränsöverskridande
+beslut på EU-nivå, såsom en utbyggnad av överföringskapacitet. Denna
+typ av CGE-modell saknas för den svenska ekonomin och skulle utgöra
+ett verkligt tillskott för analysen av energipolitiken i
+allmänhet. Varken EMEC (KI) eller Finansdepartementets nuvarande
+CGE-modell, eller för den delen någon annan befintlig svensk
+CGE-modell, kan användas för analyser åtgärder riktade mot ett givet
+kraftslag eller åtgärder med gränsöverskridande effekter.
+
+Inom ramen för projektet kommer en så kallad social räkenskapsmatris
+(SAM) för Sverige sammanställas. Data insamlas och be arbetas så att
+de på ett konsistent sätt beskriver ekonomin på tillräcklig detaljnivå
+för att på ett adekvat sätt kunna analysera miljö- och
+energipolitik. Vi avser att använda detaljerade ekonomiska och
+teknologiska data för de olika produktionsslagen inom energisektorn
+tillsammans med mer aggregerade ekonomiska data från
+Nationalräkenskaperna. Det blir då möjligt att analysera effekter av
+politiska åtgärder riktade mot enskilda såväl som grupper av kraftslag
+i ett systemperspektiv som ännu aldrig gjorts för svensk
+ekonomi. Tillsammans med kopplingen till den regionala CGE-modellen
+över EU-läverna kommer verktyget utgöra ett viktigt bidrag till
+analysförmågan av svensk energipolitik.
+
+Projektet utgör en del av en signifikant satsning på ämnesområdet,
+2013-2014 tillförs 3 post-docs med specialistkompetens på området. Vi
+har också fått stöd från Energimyndigheten för en gästprofessor,
+vilken kommer att innehas av Dr. Chris Boehringer, en internationellt
+erkänd auktoritet på området. Vidare har Dr. Martin Hill adjungerats
+som professor. Hill är en av Sveriges mest framstående specialister på
+detta område. Dr Badri Narayanan är forskare vid Center for Global
+Trade Analysis, Department of Agricultural Economics, Purdue
+University, USA.. Dr Narayanan har en omfattande kunskap i datafrågor
+rörande CGE modellering i allmännhet och GTAP specifikt. En av de 3
+post-docs vi anställt, Örjan Furtenback, är kontrakterad Oktober
+2013-Maj 2014 och vi söker stöd för att utsträcka den post-doc
+perioden med 3 år.  Furtenback har relativt nyligen disputerat på
+området och varit ansvarig för att utveckla EMEC på KI. Den
+kompetensprofilen är unik och är särskilt nyttig för detta projekt, i
+och med Furtenback är speciellt insatt i flera existerande
+CGE-modeller för svenska data.
+
+**** Text 2
+Det råder parlamentarisk oenighet i frågan om kärnkraftens vara eller
+icke vara i den svenska energipolitiken.
+
+En begränsning i utbudet av
+kärnkraften kommer att få ekonomiska konsekvenser i ett land som
+Sverige med ett stort inslag av elintensiv industri som är beroende av
+en stabil elförsörjning.
+
+Det forskningsprojektet vi föreslår avser att
+analysera samhällsekonomiska konsekvenser och spridningseffekter av
+restriktioner på svensk kärnkraftskapacitet i kombination med en
+utbyggnad av förnybar elproduktion.
+
+För att åstadkomma detta kommer vi
+att konstruera en allmänjämnviktsmodell med fokus på
+energimarknaderna. Allmänjämviktsmodellers förmåga att beskriva
+ekonomiövergripande effekter utgör en viktig skillnad jämfört med
+andra så kallade partiella modeller. En allmänjämviktsmodell kan fånga
+upp de återverkningar som sker mellan olika sektorer vid förändringar
+av ekonomiska förutsättningar och inte bara den direkta påverkan i de
+berörda sektorerna. Jämfört med partiella modeller fångas de totala
+samhällsekonomiska konsekvenserna upp på ett mer fullständigt sätt i
+allmänjämviktsmodeller. Med den typ av allmänjämviktsmodell som vi
+föreslår, är det möjligt att analysera effekterna av politiska
+åtgärder riktade till såväl individuella som grupper av kraftkällor i
+ett systemperspektiv. Verktyget kommer att vara ett viktigt bidrag
+till förmågan att analysera den svenska energipolitiken i allmänhet
+och åtgärder som riktar sig utfasning av kärnkraften i synnerhet.
+
+**** Text 3
+Energifrågorna blir allt viktigare och avvägningarna alltmer
+komplexa. Förvånansvärt nog lever energiekonomin idag en rätt
+undanskymd tillvaro på svenska universitet, i alla fall på ekonomiska
+institutioner. CERE har lanserat en signifikant satsning på
+ämnesområdet. Ett viktigt motiv är att utveckla CGE-modelleringen i
+Sverige med tyngdpunkt på att utveckla energisidan. Att se den
+energipolitiska utvecklingen i ett systemperspektiv ter sig också allt
+viktigare. Den typ av modell vi föreslår kommer att göra det möjligt
+att analysera effekter av politiska åtgärder riktade mot enskilda
+såväl som grupper av kraftslag i ett systemperspektiv. Verktyget
+kommer utgöra ett viktigt bidrag till det spektrum av analysverktyg
+som idag finns vad gäller den samhällsekonomiska analysen av svensk
+energipolitik. Vi bygger en så kallad hybridmodell där detaljerad
+mikrodata för elproduktion i kombination med de mer aggregerade data
+vanligtvis förekommande i allmän jämviktsmodeller.
+
+*** Text Eng
+**** Text 1
+This research project looks at the effects of constraints on Swedish
+nuclear power capacity combined with an increased demand for
+balancing power, following to expand renewable (weather-dependent)
+sources such as solar and wind.  The aim is to analyze Swedish nuclear
+power scenarios over the next couple of decades within the context of
+achieving climate objectives. To this end, an existing Computable
+General Equilibrium (CGE) model will be augmented to include detailed
+description of the Swedish energy sector. This type of model, called a
+hybrid model, combines detailed micro data on the energy sector with
+aggregate data.  This type of CGE model is currently missing for
+Sweden and would be a genuine contribution to the analysis of energy
+policy in general, but also a particularly well adapted tool for the
+project we are proposing here.
+
+Sweden seeks to be a forerunner in climate policy and governmental
+reports stress the urgency of curbing anthropogenic atmospheric
+greenhouse gases (Roadmap for a fossil fuel independent transport
+system in 2030 SOU2013:84 (2013) and Sweden - an emissions-neutral
+country by 2050 SEPA (2012)). There is also political consensus on the
+expansion of renewable energy, promotion of energy efficiency and non
+expansion of hydropower.  Nonetheless, the main political conflict
+regards the future of nuclear power. The green party wants a quick
+phase out, while e.g. the liberal party support replacement of
+existing reactors. A larger variability and increasing demand for
+electricity is expected SEPA (2012); SOU2013:84 (2013).  Given the
+ambitious GHGs emission reduction target SOU2013:84 (2013), and the
+challenge of meeting the increasing demand of electricity, Swedish
+nuclear power policy and electricity sector needs to be scrutinized
+further; the economic stakes are considerable.
+
+Water for hydropower can be stored in reservoirs and production can
+hence efficiently adjust to changing demandsupply of electricity.
+Hydropower is especially important in an energy system that includes
+intermittent sources, such as solar and wind power. Hydropower also
+has a function as base load in the Swedish electricity mix due to its
+large share of the Swedish electricity production.  Nuclear power also
+provides base load power in Sweden but is not as important as
+hydropower in terms of balancing short-run electricity demand and
+supply fluctuation. A reduction in the base load capacity by
+reducing or decommission nuclear power while at the same time
+increasing intermittent sources will put a stress on hydropower in
+terms of both increased base load requirement and increased balancing
+demand at the same time. This will most certainly have impact on the
+scale as well as the stability of the Swedish electricity system.
+
+Our main research question are: how will the Swedish economy adapt to
+major changes of the energy system?  Secondly, can the emission
+reduction target be achieved without nuclear power? Constraining
+nuclear will most likely have major economic consequences in a country
+like Sweden with a large element of energy-intensive industries.
+Furthermore, there are important spillover effects of such policies on
+the economy.
+
+With the type of CGE model we propose, it will be possible to analyze
+the effects of policy measures targeted at singular as well as groups
+of power sources in a system perspective. The tool will be an
+important contribution to the analysis of Swedish energy policy in
+general and policies targeting phase out of nuclear power in
+particular.
+
+**** Text 2
+Sweden has the ambition of showing the way to a sustainable society
+and it is necessary to invest in economics research to better
+understand the impacts of such ambitious energy policies. There is a
+great parliamentary divide on the perception and faith of nuclear
+power, spanning from replacement of old reactors to a rapid phase out.
+A restriction in the supply of nuclear power will have significant
+economic consequences in a country like Sweden with a large element of
+power-intensive industries dependent on a stable and affordable supply
+of electricity. The research project we are proposing here intends to
+analyze the socio-economic costs and effects of restrictions on
+nuclear power capacity in combination with an expansion of renewable
+weather dependent or intermittent power sources, in Swedish
+electricity production. With the type of CGE model we propose, it will
+be possible to analyze the effects of policy measures targeted at
+singular as well as groups of power sources in a system perspective.
+The tool will be an important contribution to the analysis ability of
+Swedish energy policy in general and policies targeting phase out of
+nuclear power in particular.
+**** Text 3
+Energy issues are becoming increasingly important and related
+considerations increasingly complex. Surprisingly, hepatic energy
+economy is today a right doldrums at Swedish universities, at least in
+economic institutions. CERE has launched a significant investment in
+the subject field. An important reason is the development of CGE
+modeling in Sweden with focus on developing energy side. Seeing the
+energy policy developments in a system perspective also seems
+increasingly important.  The type of model we propose in this research
+project, describes the energy sector in sufficient detail enabling
+analysis of changes in the economic conditions of different power
+sources for electricity generation. This type of CGE model is missing
+for the Swedish economy and would be a genuine contribution to the
+analysis of energy policy in general, but a particularly well adapted
+tool for the project we are proposing here.
+
+** Enskilt projekt/Programprojekt
+Avser denna ansökan ett enskilt projekt, markera rutan ”Enskilt projekt”. Om
+ansökan tillhör ett av Energimyndigheten beslutat forskningsprogram, markera då
+”Forskningsprogram” samt ange vilket program som avses.
+** Handläggare som ansökan diskuterats med
+Om du haft kontakt med någon av Energimyndighetens handläggare anger du
+handläggarens namn här.
+** Datum för projektstart
+Fyll i datum när projektet beräknas starta enligt åååå-mm-dd.
+** Tidpunkt då arbetet beräknas vara genomfört
+Fyll i datum när projektet beräknas vara avslutat enligt åååå-mm-dd. I
+sluttidpunkten ingår att projektet ska vara slutrapporterat och ekonomiskt
+slutredovisat till Energimyndigheten.
+** Totalt sökt belopp
+Ange i kronor vilket belopp som söks från Energimyndigheten.
+** Motivering (max 1 A4-sida)
+*** Krav
+Motivera projektet med utgångspunkt i nedanstående punkter och ange i
+förekommande fall kopplingen till resultat från tidigare genomfört
+program eller förstudie:
+- En kort beskrivning av utvecklingsstegen, nyhetsvärde
+- Energirelevans. , grad av betydelse för energisystemets utveckling
+  inklusive bedömning av potential vid storskalig användning
+- Industrirelevans - grad av betydelse för industrins utveckling
+- Marknadsförutsättningar
+- Resultatnytta, förväntade resultat. Är resultaten generellt
+  tillämpbara eller är det begränsat? Föranleder resultatet
+  fortsättningar i nya projekt?
+- Förankring, hur är projektet förankrat i respektive deltagande
+  organisation.
+- Om rent forskningsprojekt, finns industriförankring?
+- Forskargruppens kvalitet, forskargruppens förmåga att genomföra
+  projektet
+- Miljömål, specifikation av direkt eller indirekt koppling till
+  aktuellt miljömål. Se www.miljomal.nu
+*** Text
+Enligt en nyligen utkommen utredning (SOU 2013:69) kan förutsättningar
+för den svenska vattenkraften komma att omprövas i grunden. Målet är
+att alla vattenverksamheter ska bedrivas i överensstämmelse med dagens
+Miljöbalk och EU-rättsliga krav. Det kan därför bli aktuellt med helt
+nya tillstånd och villkor för många vattenkraftverk. Med anledning av
+detta har det framförts farhågor om nedläggning och begränsade
+investeringar i vattenkraft ifall de i utredningen framlagda förslagen
+genomförs. Vattenkraftens möjlighet att effektivt anpassa produktionen
+mot efterfrågan på el eller variationen i annan elproduktion gör den
+mycket viktig i det svenska energisystemet. Den är särskilt viktig i
+ett energisystem som får allt mer väderberoende kraft, som sol- och
+vindkraft.
+
+En annan viktig komponent i den svenska elförsörjningen är
+kärnkraften. Kärnkraften producerar baskraft i Sverige och är inte
+lika viktig vad gäller reglering, men utgör inte desto mindre en stor
+andel av den totala elproduktionen. Det råder parlamentarisk oenighet
+i frågan om kärnkraftens vara eller icke vara i den svenska
+energipolitiken. Tid efter annan dyker kravet om dess avveckling upp,
+nu senast i en motion av Miljöpartiet (Motion 2013/14:N430).
+
+En tredje faktor med inverkan på den svenska elmarknaden är de
+klimatmål som fastställs på EU-nivå. Enligt EUs klimatmål som nyligen
+framförhandlades skall koldioxidutsläppen reduceras med minst 40 %,
+öka den förnyelsebara energin med minst 27 % samt öka
+energieffektiviteten med minst 27 % fram till år 2030, jämfört med
+år 1990. Reduceringen av koldioxidutsläppen med 40 % kommer fördelas
+mellan medlemsstaterna enligt nycklar baserade på BNP per capita medan
+de 27 procenten för förnyelsebar energi gäller för EU som helhet och
+inte på nationell nivå. De 27 procenten på energisparande är inte
+bindande på någon nivå. I det gällande parlamentariska läget kan det
+vara svårt att gissa sig till vilken väg sverige kommer ta i de ej
+fördelade målsättnigarna för energieffektivisering och
+förnybarhet.
+
+** Bakgrund (max 1½ A4-sida)
+*** Krav
+Beskriv nuvarande behov av forskning och gjorda erfarenheter inom
+området för sökt bidrag, dels inom branschen och dels ur det
+nationella och internationella kunskapsperspektivet. Beskriv de
+problem och möjligheter som finns inom området, energimässiga,
+miljömässiga, ekonomiska, tekniska etc. Beskriv genomförbarhet, kommer
+projektet att kunna genomföras enligt uppsatta mål, vilka är
+riskerna/hindren, problemen?
+
+Redogör även för vad som tidigare gjorts inom området. Är projektet
+nytt eller en fortsättning på ett tidigare projekt? Vilka resultat har
+tidigare projekt gett?  Redogör också för forskargruppens totala
+verksamhet. Nuvarande samarbeten, industrikontakter etc.
+
+*** Text
+Det finns i Sverige ett antal energimodeller med varierande
+upplösningsgrad och fokus. MARKAL är ett viktigt exempel på en
+detaljerad modell där dock de övergripande ekonomiska mekanismer
+spelar en underordnad roll; fokus ligger istället på att beskriva
+energisystemet i detalj, snarare än på hur energimarknader agerar och
+interagerar med ekonomins övriga marknader. Konjunkturinstitutets
+modell (EMEC) är inte direkt en energimodell, utan en allmän
+jämviktsmodell som ofta används för att studera energi- och
+miljöpolitiska spörsmål. Här finns möjligheter att fånga upp det
+komplexa samspelet mellan ekonomins alla marknader. Vad som saknas
+idag är en modell som i någon mening kombinerar MARKALs detaljrikedom
+med EMECs systemperspektiv. Vårt projekt avser att, i någon mån, fylla
+igen denna lucka och bygga ett nytt och mycket användbart verktyg för
+analys av energifrågor i ett samhällsekonomiskt perspektiv.
+Huvudstudie: Den typ av modell vi föreslår kommer att göra det möjligt
+att analysera effekter av politiska åtgärder riktade mot enskilda
+såväl som grupper av kraftslag i ett systemperspektiv. Verktyget
+kommer utgöra ett viktigt bidrag till det spektrum av analysverktyg
+som idag finns vad gäller den samhällsekonomiska analysen av svensk
+energipolitik. Vi bygger en så kallad hybridmodell där detaljerad
+mikrodata kombineras med de mer aggregerade data vanligtvis
+förekommande i allmän jämviktsmodeller.  Vi kommer att bygga modellen
+med beaktande av flera viktiga aspekter på elmarknaden i långsiktigt
+perspektiv, där det är särskilt viktigt att möjliggöra analys i
+regioner som är större än Sverige, främst då Norden och Baltikum. Vi
+bygger vidare på det samarbete vi redan inlett med GTAP-gruppen
+(Purdue University), en global nationalekonomisk databas som fokuserar
+handelsflöden mellan länder. Kopplingen mellan en svensk modell och
+GTAP-data kommer möjliggöra ett studium av indirekta återverkningar på
+de svenska energimarknaderna och svensk industri, orsakade av skiften
+av Europeisk energi- och klimatpolitik vars direkta mål och fokus
+avser olika Europeiska marknader. Vidare avser vi att samarbeta med
+Prof. Peichen Gong, som bygger en skogsekonomisk sektormodell över
+Sverige/Baltikum. Genom att samordna dessa tre modellansatser ges en
+unik möjlighet att specialstudera konkurrenskraftsfrågor inom en given
+industri, samtidigt som vi kan beskriva centrala anpassningar på
+nyckelmarknader. Upplägget möjliggör en detaljerad samhällsekonomisk
+analys av en gemensam nordisk och baltisk elmarknad, inklusive hur
+förändringar av EUs energi- och miljöpolitik kan tänkas påverka dessa
+marknader. Vi kommer att börja med att bygga en sk statisk modell, där
+huvudinriktningen blir politikval (här främst styrmedelsval)
+efter 2020.
+
+** Mål (max ½ A4-sida)
+*** Krav
+Ange tydliga, enkla och mätbara mål med projektet gärna i kvantitativa
+termer, till exempel ”Vilken fråga ska besvaras?”. Använd gärna
+nyckeltal, till exempel energieffektivisering per producerad
+produkt. Ange det övergripande syftet med projektet.
+
+*** Text
+Huvudstudie:
+Den typ av modell vi föreslår kommer att göra det möjligt att
+analysera effekter av politiska åtgärder riktade mot enskilda såväl
+som grupper av kraftslag i ett systemperspektiv. Verktyget kommer
+utgöra ett viktigt bidrag till det spektrum av analysverktyg som idag
+finns vad gäller den samhällsekonomiska analysen av svensk
+energipolitik. Vi bygger en så kallad hybridmodell där detaljerad
+mikrodata kombineras med de mer aggregerade data vanligtvis
+förekommande i allmän jämviktsmodeller.
+
+Vi kommer att bygga modellen med beaktande av flera viktiga aspekter
+på elmarknaden i långsiktigt perspektiv, där det är särskilt viktigt
+att möjliggöra analys i regioner som är större än Sverige, främst då
+Norden och Baltikum. Vi bygger vidare på det samarbete vi redan inlett
+med GTAP-gruppen (Purdue University), en global nationalekonomisk
+databas som fokuserar handelsflöden mellan länder. Kopplingen mellan
+en svensk modell och GTAP-data kommer möjliggöra ett studium av
+indirekta återverkningar på de svenska energimarknaderna och svensk
+industri, orsakade av skiften av Europeisk energi- och klimatpolitik
+vars direkta mål och fokus avser olika Europeiska marknader. Vidare
+avser vi att samarbeta med Prof. Peichen Gong, som bygger en
+skogsekonomisk sektormodell över Sverige/Baltikum. Genom att samordna
+dessa tre modellansatser ges en unik möjlighet att specialstudera
+konkurrenskraftsfrågor inom en given industri, samtidigt som vi kan
+beskriva centrala anpassningar på nyckelmarknader. Upplägget möjliggör
+en detaljerad samhällsekonomisk analys av en gemensam nordisk och
+baltisk elmarknad, inklusive hur förändringar av EUs energi- och
+miljöpolitik kan tänkas påverka dessa marknader. Vi kommer att börja
+med att bygga en sk statisk modell, där huvudinriktningen blir
+politikval (här främst styrmedelsval) efter 2020.
+
+Specialstudie 1: Bas- och reglerkraft
+
+Forskningsfråga: Vilka är de samhällsekonomiska konsekvenserna bas-
+och reglerkraftsrestriktion?
+
+Vattenkraftens möjlighet att lagras i dammar och effektivt anpassa
+produktionen mot efterfrågan på el eller variationen i annan
+elproduktion gör den mycket viktig i det svenska energisystemet. Den
+är särskilt viktig i ett energisystem som får allt mer väderberoende
+kraft, som sol- och vindkraft. En annan viktig komponent i den svenska
+elförsörjningen är kärnkraften. Kärnkraften producerar baskraft i
+Sverige och är inte lika viktig vad gäller reglering, men utgör inte
+desto mindre en stor andel av den totala elproduktionen. Tid efter
+annan dyker kravet om dess avveckling upp, nu senast i en motion av
+Miljöpartiet (Motion 2013/14:N430).  En inskränkning i utbudet av
+kärnkraft eller vattenkraft kommer med stor sannolikhet få stora
+ekonomiska konsekvenser i ett land som Sverige med stora inslag av
+elintensiv industri. Vidare är det viktigt att försöka utröna
+spridningseffekterna i ekonomin.
+
+Specialstudie 2: Energieffektivisering
+
+Forskningsfråga: Hur påverkar energieffektiviseringsprogram
+samhällsekonomi och energianvändning?
+
+Enligt EUs klimatmål som nyligen framförhandlades skall
+koldioxidutsläppen reduceras med minst 40 %, öka den förnyelsebara
+energin med minst 27 % samt öka energieffektiviteten med minst 27 %
+fram till år 2030, jämfört med år 1990. Reduceringen av
+koldioxidutsläppen med 40 % kommer fördelas mellan medlemsstaterna
+enligt nycklar baserade på BNP per capita medan de 27 procenten för
+förnyelsebar energi gäller för EU som helhet och inte på nationell
+nivå. De 27 procenten på energisparande är inte bindande på någon
+nivå. I det gällande parlamentariska läget kan det vara svårt att
+gissa sig till vilken väg sverige kommer ta i de ej fördelade
+målsättnigarna för energieffektivisering och förnybarhet. Vår idé är
+därför att undersöka direkta effekter av ett flertal olika möjliga
+kombinationer av mål.
+
+För att uppnå dessa mål, kommer ett några olika styrmedel testas i
+modellen i termer av tänkta energieffektiviseringsprogram som påverkar
+offentliga sektor, små och och medelstora företag, energiintensiva
+industrier och hushåll. Det förväntas att dessa
+effektiviseringsprogram kommer minska efterfrågan på el och pressa ner
+elpriserna. En minskad energiförbrukning på grund av förbättrad
+energieffektivitet kan leda till ökade utgifter på andra varor och
+tjänster, och stimulera tillväxt och sysselsättning. Icke desto mindre
+kan denna ökning av konsumtionen av varor och tjänster i sin tur öka
+energiförbrukningen. Denna så kallade rekyleffekt, blir en viktig
+faktor som måste övervägas. För att fånga denna rekyleffekt krävs en
+allmän jämviktsmodell med detaljerad beskrivning av energisektorn,
+dvs. den modell som vi avser utveckla i projektet.
+
+Val av typ av styrmedel och grad av energieffektivisering kan få högst
+olika inverkan på svensk ekonomi som helhet, men även olika inverkan
+på elmarknaden och i förlängningen energiintensiv industri, beroende
+av en stabil elförsörjning.
+
+Specialstudie 3: Förnybar Energi
+
+Forskningsfråga: Vad innebär marknadsförstoring av
+elcertifaktsmarknaden för elpris och samhällsekonomi?
+
+Svenska och norska parter är skyldiga att köpa elcertifikat
+motsvarande viss del av elförsäljningen eller användning. Målet för
+det svenska elcertifikatsystemet är att öka produktionen av förnybar
+el med 25 TWh till år 2020 jämfört med år 2002. Dessutom har Sverige
+och Norge, sedan 1 januari 2012, en gemensam elcertifikatmarknad som
+gör det möjligt att handla elcertifikat för förnybar elproduktion
+mellan dessa länder. Syftet med denna gemensamma marknad är att öka
+den förnybara elproduktionen med 26,4 TWh. Nyligen har den svenska
+Energimyndigheten föreslagit att öka kvoten med ca 8 TWh per år mellan
+2016-2019. Det är viktigt att undersöka vad detta innebär för priset
+på el och därmed på hela ekonomin.
+
+** Genomförande (max 1 A4-sida)
+*** Krav
+Beskriv hur projektet ska genomföras. Beskriv och motivera
+angreppssätt, metoder och praktiskt uppläggning. Presentera en tydlig
+tids- och arbetsplan, gärna etappindelad med till exempel datum för
+delmål, slutförande och slutredovisning. Information om projektet ska
+göras tillgänglig för intresserade institutioner och företag.
+*** Text
+Forskargruppen arbetar inom Centrum för miljö- och naturresursekonomi,
+(CERE).CERE är ett tvärvetenskapligt forskningscentrum som förenar Umeå
+universitet (UmU) och Svenska Lantbruksuniversitet (SLU). Många
+framstående forskare samarbetar med CERE. Ett övergripande syfte med CERE är
+att ge högklassig forskning inom ämnen som rör energisystem. Av
+speciellt intresse är effekterna av klimat- och energipolitik
+energianvändning, som det föreslagna projektet syftar till att
+studera.
+
+Vår forskargrupp kommer att gynnas av samarbete med några
+forskare av toppklass inom CGE-modellering, vilka redan är anslutna till
+CERE. Följande personer, med specifik kompetens och ansvar, kommer att
+fungera som samverkande medlemmar i projektgruppen:
+
+Professor Christoph Böhringer; en världsledande auktoritet inom
+CGE-modellering , forskningsledare för Centre for European Economic
+Research (ZEW) och ordförande vid institutionen för ekonomisk politik,
+universitetet i Oldenburg, Tyskland. Professor Böhringer kommer att
+bidra till modellutveckling och frågor om CGE modellering inom ramen
+för detta projekt. Professor Böhringer är en viktig del av CERE
+strategi att utveckla CGE modellering - särskilt inom ramen för vår
+allmänna arbete med energifrågor. Professor Böhringer arbetar för
+närvarande med oss ​​för att utveckla en 57-sektor GTAP version av ett
+Sverige CGE-modellen, vilket är mycket mer aggregerad beträffande
+energisektorn. Det finns alltså en positiv korsbefruktning mellan
+detta projekt och det arbete som redan pågår vid CERE.
+
+Dr Martin Hill, är anställd vid Finansdepartementet och adjungerad
+professor vid SLU och CERE, är en av Sveriges mest kompetenta CGE
+specialister. Som samverkande medlem i gruppen kommer Dr Hill
+kompetens inom svenska politiska frågor att vara ett viktigt bidrag
+vid utformningen av möjliga scenarier för nuvarande och kommande
+svensk politik när det gäller kärnkraft och förnyelsebar energi.
+
+Dr Badri Narayanan är forskare vid Center for Global Trade Analysis,
+Department of Agricultural Economics, Purdue University, USA. Dr
+Narayanan har en omfattande kunskap i datafrågor rörande CGE
+modellering och kommer bli en enorm tillgång i det intensiva arbetet
+med att bygga upp en SAM.
+
+Den modell vi ämnar använda i våra analyser kommer att baseras på en
+befintlig allmänjämviktsmodell (CGE). Denna befintliga modell behöver
+dock kompletteras och förbättras, framförallt gällande modernare data
+för den svenska ekonomin samt en detaljerad beskrivning av den svenska
+energisektorn. Den slutgiltiga modellen, av en typ som kallas en
+hybridmodell, är en kombination av detaljerade mikrodata för
+energisektorn och mer aggregerade data, som normalt används i
+CGE-modeller.
+
+Ett första steg i projektet är att sammanställa en social
+räkenskapsmatris (SAM), för Sverige, med särskilt fokus på
+energimarknaderna. Detta arbete innebär att samla in uppgifter från
+olika källor och behandling av dessa uppgifter så att de konsekvent
+kan beskriva den svenska ekonomin i jämvikt och att uppgifterna är
+tillräckligt detaljerade för att adekvat analysera politik riktar
+elsystemet. Denna SAM matar modellen med nya och kompletterande
+uppgifter. Den befintliga basmodell måste ändras för att införliva de
+nya detaljerade uppgifter om det svenska energisystemet och kalibreras
+till nuvarande ekonomiska situationen för att fastställa ett
+referensscenario för att jämföra med relevanta
+policysimuleringar. Scenarier för olika möjliga politiska beslut
+kommer att skapas, och modellen kommer att behöva ytterligare
+modifiering för att tillgodose simuleringar av dessa scenarier.
+
+Forskargruppen kommer tillsammans skriva papper för fackgranskad
+vetenskaplig publikation och resultat kommer att presenteras vid
+internationella möten, seminarier och konferenser. Vi kommer att göra
+en särskild ansträngning för att sätta våra resultat i
+populärvetenskapliga forum för att underlätta spridningen av kunskap
+utanför den akademiska arenan. Den mest tidskrävande delen av
+projektet kommer att vara sammanställning av SAM och modelländringar
+. Sammanställningen av SAM kommer att ske under det första
+året. Modell ändringar kommer att ske under de båda åren, medan
+skapandet av relevanta scenarier för simuleringar kommer att ske under
+det andra året av projektet.
+** Kostnader
+*** Krav
+Totalbudget för projektet, där samtliga kostnader specificeras och
+bryts ner på kalenderår. Dela upp totalkostnaden i kostnadsslag enligt
+blanketten. Budgeten ska omfatta all medverkan från externa
+samarbetspartners som företag, institutioner, institut,
+universitet/högskolor och inhyrda konsulter etc.
+
+Beräkningsgrund för värdering av naturainsatser ska göras enligt
+Energimyndighetens anvisningar. Beloppen ska anges i hela kronor
+enligt: 1 500 000 (en miljon femhundra tusen kronor). Ange också hur
+stor andel av en heltid som personal- kostnaderna avser, till exempel
+2,25 årsarbetare. Summera kostnaderna årsvis. Kostnaderna ska anges
+exklusive moms utom i de fall bidragsmottagaren inte har avdragsrätt
+för ingående skatt på förvärv enligt RSV anvisningar för bidrag.
+*** Text
+Projektkostnad: Lön inklusive sociala avgifter och universitetspåslag
+3*70.000*12 = 2,520,000 SEK
+Post-doc: Dr. Örjan Furtenback
+
+** Universitet och högskolor
+Indirekta kostnader för universitet och högskolor ersätts enligt ”full
+kostandstäckning”. De indirekta kostnaderna ska beräknas enligt
+högskolans egen modell eller SUHF:s (Sveriges universitet och
+Högskolors förbund) modell.
+** Finansiering
+Ange här namnet på eventuella hel- eller delfinansiärer samt till hur
+stor del (uttryckt i kronor och procent) av den totala kostnaden som
+respektive finansiär bidrar med. Rad 1 ska alltid vara
+Energimyndighetens andel.
+** Industriellt samarbetsprojekt/konsortieverksamhet
+Markera här om projektet är ett samarbetsprojekt/konsortieverksamhet.
+** Detta projekt är i sin helhet/till vissa delar lika med projekt för vilken ansökan ingivits till annan myndighet
+Markera här om projektet i sin helhet eller till vissa delar är lika
+med projekt som ansökts om till annan myndighet. Ange i förekommande
+fall namn på myndighet som ansökan skickats till.
+** Sökt dyrbar utrustning
+Ange varifrån bidrag för och på hur stort belopp dyrbar utrustning är
+sökt för.  Detta gäller endast högskola.
+** Namn på doktorand
+Ange här namn på högskole- eller industridoktorand som planeras att
+utexamineras i projektet.
+** Övriga samarbetspartners
+Ange namnet på institution/företag/organisation för övriga medverkande
+i projektet.
+** Kontaktperson
+Ange projektledarens eller annan kontaktpersons namn.
+** Telefon
+Ange kontaktpersonens telefonnummer, till exempel 016-544 20 00.
+** Resultatredovisning
+Ange var resultaten kan komma att presenteras, t.ex. branschtidningar,
+hemsidor och i andra medier.
+** Nyttiggörande/Exploatering
+Redovisa hur resultat från projektet kommer att
+nyttiggöras/exploateras. Med nyttiggörande/exploatering avses
+spridning av projektresultat till samhällelig eller kommersiell
+nytta. Detta inbegriper planer och åtaganden för att sprida och
+nyttiggöra projektresultat. Det kan innefatta hur projektresultaten
+passar in i den sökandes forsknings- och utvecklingsstrategi och/eller
+affärsutvecklingsstrategi.
+** Stimulanseffekt
+Redovisa vilken stimulanseffekt stödet kommer att få i form av till
+exempel ökad projektstorlek, ökat antal förväntade resultat, ökad
+intensitet eller ökning av utgifter för forskning, utveckling och
+innovation. Detta ska anges om sökt belopp överstiger 7,5 MEUR och
+alltid när sökanden är ett företag som inte faller in under
+definitionen av små och medelstora företag i enlighet med 3§
+förordningen (2008:761 om statligt stöd till forskning och utveckling
+samt innovation inom energiområdet).
+** Bilagor
+Förteckning över medsända bilagor.
+** Underskrift
+Underskrift ska ske av både behörig firmatecknare och
+projektledare. Behörig firmatecknare på högskola och universitet är
+vanligen prefekt.
+
+Observera att ofullständigt eller felaktigt undertecknade ansökningar
+måste korrigeras innan beredningen påbörjas.
+
+Tillsammans med ansökan ska handlingar som styrker behörigheten att
+underteckna bekräftelsen av ansökan, t.ex. registreringsbevis från
+bolagsverket och eventuell fullmakt bifogas.

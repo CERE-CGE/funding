@@ -1,0 +1,12 @@
+*.aux
+*.bak
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.log
+*.out
+*.pdf
+*~
+*.tcp
+*.tps

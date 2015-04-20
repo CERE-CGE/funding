@@ -1,0 +1,248 @@
+----------------------------------
+*********************************
+* Sammanfattning (max 800 tecken)
+*********************************
+----------------------------------
+
+----------------
+* Specifikation
+----------------
+Projektsammanfattning ska omfatta max 800 tecken och skrivas både på
+svenska och på engelska. Den ska skrivas på ett populärvetenskapligt
+sätt så att även den som är oinvigd i ämnet med lätthet förstår vad
+projektet handlar om.
+----------------
+* Förslag svenska
+----------------
+Det finns i Sverige ett antal energimodeller med varierande
+upplösningsgrad och fokus. MARKAL är ett viktigt exempel på en
+detaljerad modell där dock de övergripande ekonomiska mekanismer
+spelar en underordnad roll; fokus ligger istället på att beskriva
+energisystemet i  detalj, snarare än på hur energimarknader agerar och
+interagerar med ekonomins övriga marknader. Konjunkturinstitutets
+modell (EMEC) är inte direkt en energimodell, utan en allmän
+jämviktsmodell som ofta används för att studera energi- och
+miljöpolitiska spörsmål. Här finns möjligheter att fånga upp det
+komplexa samspelet mellan ekonomins alla marknader. Vad som saknas
+idag är en modell som i någon mening kombinerar MARKALs detaljrikedom
+med EMECs systemperspektiv. Vårt projekt avser att, i någon mån, fylla
+igen denna lucka och bygga ett nytt och mycket användbart verktyg för
+analys av energifrågor i ett samhällsekonomiskt perspektiv.
+
+Huvudstudie:
+Den typ av modell vi föreslår kommer att göra det möjligt att
+analysera effekter av politiska åtgärder riktade mot enskilda såväl
+som grupper av kraftslag i ett systemperspektiv. Verktyget kommer
+utgöra ett viktigt bidrag till det spektrum av analysverktyg som idag
+finns vad gäller den samhällsekonomiska analysen av svensk
+energipolitik. Vi bygger en så kallad hybridmodell där detaljerad
+mikrodata kombineras med de mer aggregerade data vanligtvis
+förekommande i allmän jämviktsmodeller.
+
+Vi kommer att bygga modellen med beaktande av flera viktiga aspekter
+på elmarknaden i långsiktigt perspektiv, där det är särskilt viktigt
+att möjliggöra analys i regioner som är större än Sverige, främst då
+Norden och Baltikum. Vi bygger vidare på det samarbete vi redan inlett
+med GTAP-gruppen (Purdue University), en global nationalekonomisk
+databas som fokuserar handelsflöden mellan länder. Kopplingen mellan
+en svensk modell och GTAP-data kommer möjliggöra ett studium av
+indirekta återverkningar på de svenska energimarknaderna och svensk
+industri, orsakade av skiften av Europeisk energi- och klimatpolitik
+vars direkta mål och fokus avser olika Europeiska marknader. Vidare
+avser vi att samarbeta med Prof. Peichen Gong, som bygger en
+skogsekonomisk sektormodell över Sverige/Baltikum. Genom att samordna
+dessa tre modellansatser ges en unik möjlighet att specialstudera
+konkurrenskraftsfrågor inom en given industri, samtidigt som vi kan
+beskriva centrala anpassningar på nyckelmarknader. Upplägget möjliggör
+en detaljerad samhällsekonomisk analys av en gemensam nordisk och
+baltisk elmarknad, inklusive hur förändringar av EUs energi- och
+miljöpolitik kan tänkas påverka dessa marknader. Vi kommer att börja
+med att bygga en sk statisk modell, där huvudinriktningen blir
+politikval (här främst styrmedelsval) efter 2020.
+
+Vi avser även att specialstudera vissa frågor av stort intresse i
+sammanhanget. Specialstudierna är baserade på den modell som utvecklas
+i huvudstudien.
+
+Specialstudie 1: Bas- och reglerkraft
+Vattenkraftens möjlighet att lagras i dammar och effektivt anpassa
+produktionen mot efterfrågan på el eller variationen i annan
+elproduktion gör den mycket viktig i det svenska energisystemet. Den
+är särskilt viktig i ett energisystem som får allt mer väderberoende
+kraft, som sol- och vindkraft. En annan viktig komponent i den svenska
+elförsörjningen är kärnkraften. Kärnkraften producerar baskraft i
+Sverige och är inte lika viktig vad gäller reglering, men utgör inte
+desto mindre en stor andel av den totala elproduktionen. Tid efter
+annan dyker kravet om dess avveckling upp, nu senast i en motion av
+Miljöpartiet (Motion 2013/14:N430).  En inskränkning i utbudet av
+kärnkraft eller vattenkraft kommer med stor sannolikhet få stora
+ekonomiska konsekvenser i ett land som Sverige med stora inslag av
+elintensiv industri. Vidare är det viktigt att försöka utröna
+spridningseffekterna i ekonomin.
+
+Specialstudie 2: Energieffektivisering
+
+Forskningsfråga: Hur påverkar energieffektiviseringsprogram
+samhällsekonomi och energianvändning?
+
+Enligt EUs klimatmål som nyligen framförhandlades skall
+koldioxidutsläppen reduceras med minst 40 %, öka den förnyelsebara
+energin med minst 27 % samt öka energieffektiviteten med minst 27 %
+fram till år 2030, jämfört med år 1990. Reduceringen av
+koldioxidutsläppen med 40 % kommer fördelas mellan medlemsstaterna
+enligt nycklar baserade på BNP per capita medan de 27 procenten för
+förnyelsebar energi gäller för EU som helhet och inte på nationell
+nivå. De 27 procenten på energisparande är inte bindande på någon
+nivå. I det gällande parlamentariska läget kan det vara svårt att
+gissa sig till vilken väg sverige kommer ta i de ej fördelade
+målsättnigarna för energieffektivisering och förnybarhet. Vår idé är
+därför att undersöka direkta effekter av ett flertal olika möjliga
+kombinationer av mål.
+
+För att uppnå dessa mål, kommer ett några olika styrmedel testas i
+modellen i termer av tänkta energieffektiviseringsprogram som påverkar
+offentliga sektor, små och och medelstora företag, energiintensiva
+industrier och hushåll. Det förväntas att dessa
+effektiviseringsprogram kommer minska efterfrågan på el och pressa ner
+elpriserna. En minskad energiförbrukning på grund av förbättrad
+energieffektivitet kan leda till ökade utgifter på andra varor och
+tjänster, och stimulera tillväxt och sysselsättning. Icke desto mindre
+kan denna ökning av konsumtionen av varor och tjänster i sin tur öka
+energiförbrukningen. Denna så kallade rekyleffekt, blir en viktig
+faktor som måste övervägas. För att fånga denna rekyleffekt krävs en
+allmän jämviktsmodell med detaljerad beskrivning av energisektorn,
+dvs. den modell som vi avser utveckla i projektet.
+
+Val av typ av styrmedel och grad av energieffektivisering kan få högst
+olika inverkan på svensk ekonomi som helhet, men även olika inverkan
+på elmarknaden och i förlängningen energiintensiv industri, beroende
+av en stabil elförsörjning.
+
+Specialstudie 3: Förnybar Energi
+Forskningsfråga: Vad innebär marknadsförstoring av
+elcertifaktsmarknaden för elpris och samhällsekonomi?
+
+Svenska och norska parter är skyldiga att köpa elcertifikat
+motsvarande viss del av elförsäljningen eller användning. Målet för
+det svenska elcertifikatsystemet är att öka produktionen av förnybar
+el med 25 TWh till år 2020 jämfört med år 2002. Dessutom har Sverige
+och Norge, sedan 1 januari 2012, en gemensam elcertifikatmarknad som
+gör det möjligt att handla elcertifikat för förnybar elproduktion
+mellan dessa länder. Syftet med denna gemensamma marknad är att öka
+den förnybara elproduktionen med 26,4 TWh. Nyligen har den svenska
+Energimyndigheten föreslagit att öka kvoten med ca 8 TWh per år mellan
+2016-2019. Det är viktigt att undersöka vad detta innebär för priset
+på el och därmed på hela ekonomin.
+
+
+----------------------------------
+*********************************
+** Motivering (max 1 A4-sida)
+*********************************
+----------------------------------
+----------------
+* Specifikation
+----------------
+Motivera projektet med utgångspunkt i nedanstående punkter och ange i
+förekommande fall kopplingen till resultat från tidigare genomfört
+program eller förstudie:
+- En kort beskrivning av utvecklingsstegen, nyhetsvärde
+- Energirelevans. , grad av betydelse för energisystemets utveckling
+  inklusive bedömning av potential vid storskalig användning
+- Industrirelevans - grad av betydelse för industrins utveckling
+- Marknadsförutsättningar
+- Resultatnytta, förväntade resultat. Är resultaten generellt
+  tillämpbara eller är det begränsat? Föranleder resultatet
+  fortsättningar i nya projekt?
+- Förankring, hur är projektet förankrat i respektive deltagande
+  organisation.
+- Om rent forskningsprojekt, finns industriförankring?
+- Forskargruppens kvalitet, forskargruppens förmåga att genomföra
+  projektet
+- Miljömål, specifikation av direkt eller indirekt koppling till
+  aktuellt miljömål. Se www.miljomal.nu
+----------------
+* Förslag svenska
+----------------
+Energifrågorna blir allt viktigare och avvägningarna alltmer
+komplexa. Förvånansvärt nog lever energiekonomin idag en rätt
+undanskymd tillvaro på svenska universitet, i alla fall på ekonomiska
+institutioner. CERE har lanserat en signifikant satsning på
+ämnesområdet. Ett viktigt motiv är att utveckla CGE-modelleringen i
+Sverige med tyngdpunkt på att utveckla energisidan.  Att se den
+energipolitiska utvecklingen i ett systemperspektiv ter sig också allt
+viktigare, inte minst med tanke på vad som hänt på energimarknaderna.
+
+Det finns i Sverige ett antal energimodeller med varierande
+upplösningsgrad och fokus. MARKAL är ett viktigt exempel på en
+detaljerad modell där dock de övergripande ekonomiska mekanismer
+spelar en underordnad roll; fokus ligger istället på att beskriva
+energisystemet i detalj, snarare än på hur energimarknader agerar och
+interagerar med ekonomins övriga marknader. Konjunkturinstitutets
+modell (EMEC) är inte direkt en energimodell, utan en allmän
+jämviktsmodell som ofta används för att studera energi- och
+miljöpolitiska spörsmål. Här finns möjligheter att fånga upp det
+komplexa samspelet mellan ekonomins alla marknader. Vad som saknas
+idag är en modell som i någon mening kombinerar MARKALs detaljrikedom
+med EMECs systemperspektiv. Vårt projekt avser att, i någon mån, fylla
+igen denna lucka och bygga ett nytt och mycket användbart verktyg för
+analys av energifrågor i ett samhällsekonomiskt perspektiv.
+
+----------------------------------
+*********************************
+** Bakgrund (max 1½ A4-sida)
+*********************************
+----------------------------------
+
+----------------
+* Specifikation
+----------------
+Beskriv nuvarande behov av forskning och gjorda erfarenheter inom
+området för sökt bidrag, dels inom branschen och dels ur det
+nationella och internationella kunskapsperspektivet. Beskriv de
+problem och möjligheter som finns inom området, energimässiga,
+miljömässiga, ekonomiska, tekniska etc. Beskriv genomförbarhet, kommer
+projektet att kunna genomföras enligt uppsatta mål, vilka är
+riskerna/hindren, problemen?
+
+Redogör även för vad som tidigare gjorts inom området. Är projektet
+nytt eller en fortsättning på ett tidigare projekt? Vilka resultat har
+tidigare projekt gett?  Redogör också för forskargruppens totala
+verksamhet. Nuvarande samarbeten, industrikontakter etc.
+----------------
+* Förslag svenska
+----------------
+Enligt en nyligen utkommen utredning (SOU 2013:69) kan förutsättningar
+för den svenska vattenkraften komma att omprövas i grunden. Målet är
+att alla vattenverksamheter ska bedrivas i överensstämmelse med dagens
+Miljöbalk och EU-rättsliga krav. Det kan därför bli aktuellt med helt
+nya tillstånd och villkor för många vattenkraftverk. Med anledning av
+detta har det framförts farhågor om nedläggning och begränsade
+investeringar i vattenkraft ifall de i utredningen framlagda förslagen
+genomförs. Vattenkraftens möjlighet att effektivt anpassa produktionen
+mot efterfrågan på el eller variationen i annan elproduktion gör den
+mycket viktig i det svenska energisystemet. Den är särskilt viktig i
+ett energisystem som får allt mer väderberoende kraft, som sol- och
+vindkraft.
+
+En annan viktig komponent i den svenska elförsörjningen är
+kärnkraften. Kärnkraften producerar baskraft i Sverige och är inte
+lika viktig vad gäller reglering, men utgör inte desto mindre en stor
+andel av den totala elproduktionen. Det råder parlamentarisk oenighet
+i frågan om kärnkraftens vara eller icke vara i den svenska
+energipolitiken. Tid efter annan dyker kravet om dess avveckling upp,
+nu senast i en motion av Miljöpartiet (Motion 2013/14:N430).
+
+En tredje faktor med inverkan på den svenska elmarknaden är de
+klimatmål som fastställs på EU-nivå. Enligt EUs klimatmål som nyligen
+framförhandlades skall koldioxidutsläppen reduceras med minst 40 %,
+öka den förnyelsebara energin med minst 27 % samt öka
+energieffektiviteten med minst 27 % fram till år 2030, jämfört med
+år 1990. Reduceringen av koldioxidutsläppen med 40 % kommer fördelas
+mellan medlemsstaterna enligt nycklar baserade på BNP per capita medan
+de 27 procenten för förnyelsebar energi gäller för EU som helhet och
+inte på nationell nivå. De 27 procenten på energisparande är inte
+bindande på någon nivå. I det gällande parlamentariska läget kan det
+vara svårt att gissa sig till vilken väg sverige kommer ta i de ej
+fördelade målsättnigarna för energieffektivisering och
+förnybarhet.
